@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://portfolio-gray-five-90.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-portfolio--gray--five--90.vercel.app-6f42c1?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-portfolio--gray--five--90.vercel.app-6f42c1?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
 
