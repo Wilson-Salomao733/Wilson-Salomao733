@@ -69,6 +69,21 @@
 
 ---
 
+### 📌 Featured Project
+
+**[📍 Bico](https://github.com/Bico-App)** — Plataforma full stack (web + mobile + API geolocalizada) que conecta clientes a prestadores de serviços por proximidade, com chat, avaliações e pagamentos integrados (PIX/Asaas).
+
+> Backend em **Elixir/Phoenix**, web em **React/Vite**, app em **Expo/React Native**, infra com **Docker** e **CI/CD**. Código privado — visão técnica completa em [github.com/Bico-App](https://github.com/Bico-App).
+
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
