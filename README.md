@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Wilson Salomão 👋</h1>
 
 <p align="center">
-  <b>Junior Full Stack & DevOps Developer</b><br/>
-  Building modern, scalable applications with clean code, automation and cloud-native practices.
+  <b>Software Engineer · Full Stack & DevOps</b><br/>
+  Building modern, scalable applications with clean code, automation, cloud and AI.
 </p>
 
 <p align="center">
@@ -19,12 +19,12 @@
 
 ### 🚀 About me
 
-- 🧑‍💻 Junior **Full Stack & DevOps** Developer with **2+ years** of experience.
-- ⚙️ Backend with **Elixir (Phoenix)**, **Node.js (NestJS)** and **Python (Django)**; frontend with **React** & **TypeScript**.
-- ☁️ Comfortable across **AWS** and **GCP**, automating infra with **Terraform**, **Docker** and **Kubernetes**.
+- 🧑‍💻 **Software Engineer** (Full Stack & DevOps) — currently building automations and data-driven solutions at **Swap**.
+- ⚙️ Backend with **Elixir (Phoenix)**, **Node.js (NestJS)**, **C#** and **Python**; frontend with **React** & **TypeScript**.
+- ☁️ **GCP Project Owner** — administering and architecting Google Cloud services end to end; also work across **AWS**, **Terraform**, **Docker** and **Kubernetes**.
+- 🤖 Working with **Machine Learning** and building **AI agents with LLMs** to automate decisions and analysis.
 - 🔭 Currently studying **Computer Science** at Universidade São Judas Tadeu / Unimonte.
 - 🌍 Languages: **Portuguese** (native) · **English** (fluent) · **Italian** (basic).
-- 🏆 *Technology Highlight – Árvore de Livros (2024)* and creator of the educational platform *VestibuQuiz*.
 
 ---
 
@@ -36,6 +36,7 @@
 ![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -53,7 +54,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**AI & Machine Learning**
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **Databases, Messaging & Observability**
 
