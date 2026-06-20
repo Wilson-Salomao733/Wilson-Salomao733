@@ -73,9 +73,11 @@ You can find me at 👉 **[portfolio-gray-five-90.vercel.app](https://portfolio-
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
-**[📍 Bico](https://github.com/Bico-App)** — Plataforma full stack (web + mobile + API geolocalizada) que conecta clientes a prestadores de serviços por proximidade, com chat, avaliações e pagamentos integrados (PIX/Asaas). Backend em **Elixir/Phoenix**, web em **React/Vite**, app em **Expo/React Native**.
+**[📍 Bicano](https://github.com/Bicano-App)** — Plataforma full stack (web + mobile + API geolocalizada) que conecta clientes a prestadores de serviços por proximidade, com chat, avaliações e pagamentos integrados (PIX/Asaas). Backend em **Elixir/Phoenix**, web em **React/Vite**, app em **Expo/React Native**.
+
+**[🎓 VestibuQuiz](https://github.com/VestibuQuiz)** — Quiz multiplayer com questões do ENEM para preparação ao vestibular. Salas em tempo real, ranking e sincronização via WebSocket. Backend em **Elixir/Phoenix**, web em **React/Vite**, app mobile em **Expo/React Native**.
 
 ---
 
